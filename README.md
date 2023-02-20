@@ -15,7 +15,7 @@ Chroma keying on live video capture using OpenCV's Color Detection and Segmentat
   - Applicable to specified pixel values and can be adjusted.
 
 ### Installation
-Install the flask_opencv repository by following the instructions in the repository.
+Install the Chroma keying repository by following the instructions in the repository.
 
 Install the required Python libraries using the following command:
 ```pip install opencv numpy```
