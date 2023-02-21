@@ -1,6 +1,8 @@
 # Chroma-keying-live-video-OpenCV
 
-Chroma keying on live video capture using OpenCV's Color Detection and Segmentation methods. Chroma key compositing, or chroma keying, is a visual-effects and post-production technique for compositing (layering) two images or video streams together based on colour hues (chroma range). This repository allows you to replace parts of the live video with a previously taken image when a certain range of pixel values are detected. Also known as "green screen" technology, chroma keying allows users to replace the background of a video with a different image or video, making it possible to create visually stunning content that looks like it was filmed on location.
+Chroma keying on live video capture using OpenCV's Color Detection and Segmentation methods. Chroma key compositing, or chroma keying, is a visual-effects and post-production technique for compositing (layering) two images or video streams together based on colour hues (chroma range). 
+
+This repository allows you to replace parts of the live video with a previously taken image when a certain range of pixel values are detected. Also known as "green screen" technology, chroma keying allows users to replace the background of a video with a different image or video, making it possible to create visually stunning content that looks like it was filmed on location.
 
 ### Requirements
   - Python 3.x   
